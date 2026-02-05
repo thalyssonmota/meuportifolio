@@ -175,6 +175,12 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(2.1rem, 4vw, 3rem);
+  line-height: 1.15;
+}
+
 /* Stack - Efeito Hover Avançado */
 .stack {
   display: grid;
