@@ -282,6 +282,17 @@ h2 {
   height: 28px;
 }
 
+.project-desc {
+  margin: 0.4rem 0 0.5rem;
+  color: var(--muted);
+}
+
+.contact-lead {
+  margin: 0.35rem 0 0.75rem;
+  color: var(--muted);
+  max-width: 720px;
+}
+
 .project-card:hover {
   transform: translateY(-8px);
   border-color: rgba(255, 255, 255, 0.18);
